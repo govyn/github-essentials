@@ -2,3 +2,5 @@ Dummy file for push test
 
 
 Add another line.
+
+New line for push from git bash
