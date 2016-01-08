@@ -1,10 +1,10 @@
 line1
+edit line2; I've deleted the line immediately below this
 line1
 line1
 line1
-line1
-line1
-line1
+another edited line
+this line has been inserted
 line1
 line1
 line1
